@@ -1,0 +1,30 @@
+# Carpetas generadas por Unity que NO deben subirse a Git
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Archivos de Visual Studio y Rider (si los usas para programar)
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+
+# Archivos de cache y configuraciones locales
+*.bak
+*.DS_Store
+*.swp
+*.lock
+*.tmp
+*.ide
