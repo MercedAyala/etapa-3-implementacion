@@ -28812,7 +28812,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7335853845146258495}
   m_Layer: 0
-  m_Name: vfx_Waterfall_v2
+  m_Name: Casacada
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

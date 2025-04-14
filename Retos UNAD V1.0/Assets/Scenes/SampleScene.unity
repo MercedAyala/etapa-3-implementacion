@@ -30278,6 +30278,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 323927479, guid: 3b9e0071429921247a3f2f139577c1e7, type: 3}
+      propertyPath: m_Name
+      value: charcos
+      objectReference: {fileID: 0}
     - target: {fileID: 323927480, guid: 3b9e0071429921247a3f2f139577c1e7, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.4554968
@@ -30306,9 +30310,21 @@ PrefabInstance:
       propertyPath: m_Materials.Array.size
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3137213983636972569, guid: 3b9e0071429921247a3f2f139577c1e7, type: 3}
+      propertyPath: m_Name
+      value: espuma2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3747195212388872317, guid: 3b9e0071429921247a3f2f139577c1e7, type: 3}
+      propertyPath: m_Name
+      value: Splashes
+      objectReference: {fileID: 0}
     - target: {fileID: 4278632716127205203, guid: 3b9e0071429921247a3f2f139577c1e7, type: 3}
       propertyPath: m_Materials.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4658501571219533008, guid: 3b9e0071429921247a3f2f139577c1e7, type: 3}
+      propertyPath: m_Name
+      value: Particles
       objectReference: {fileID: 0}
     - target: {fileID: 5045822710922485828, guid: 3b9e0071429921247a3f2f139577c1e7, type: 3}
       propertyPath: m_Materials.Array.size
@@ -30317,6 +30333,10 @@ PrefabInstance:
     - target: {fileID: 5336512698438268104, guid: 3b9e0071429921247a3f2f139577c1e7, type: 3}
       propertyPath: m_Materials.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6045969667881422094, guid: 3b9e0071429921247a3f2f139577c1e7, type: 3}
+      propertyPath: m_Name
+      value: Particles2
       objectReference: {fileID: 0}
     - target: {fileID: 7335853845146258495, guid: 3b9e0071429921247a3f2f139577c1e7, type: 3}
       propertyPath: m_LocalScale.x
@@ -30370,13 +30390,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8166397852712622021, guid: 3b9e0071429921247a3f2f139577c1e7, type: 3}
+      propertyPath: m_Name
+      value: espuma
+      objectReference: {fileID: 0}
     - target: {fileID: 8404168878108449448, guid: 3b9e0071429921247a3f2f139577c1e7, type: 3}
       propertyPath: m_Name
-      value: vfx_Waterfall_v2
+      value: Cascada
       objectReference: {fileID: 0}
     - target: {fileID: 8472858942765540178, guid: 3b9e0071429921247a3f2f139577c1e7, type: 3}
       propertyPath: m_Materials.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8944490506769705679, guid: 3b9e0071429921247a3f2f139577c1e7, type: 3}
+      propertyPath: m_Name
+      value: Cascada
+      objectReference: {fileID: 0}
+    - target: {fileID: 9194391311827371056, guid: 3b9e0071429921247a3f2f139577c1e7, type: 3}
+      propertyPath: m_Name
+      value: Splashes2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
